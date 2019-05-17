@@ -1,0 +1,9 @@
+creo el repositorio en git
+inicio un archivo en git
+clono el repositorio a la carpeta: git pull https://github.com/mfunes458/a.git
+subo un archivo 
+git push https://github.com/mfunes458/a.git (ingresar usuario-contraseña)
+
+setear la rama :
+git remote add origin url
+git push origin master
